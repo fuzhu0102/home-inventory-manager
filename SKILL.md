@@ -1,7 +1,6 @@
 ---
 name: home-inventory-manager
 description: 维护、查询本地家庭物品库存。强制通过 manage_inventory.py 脚本进行写操作与自动备份轮转。
-requires_env: []
 ---
 
 # Home Inventory Management SOP
