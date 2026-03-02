@@ -59,6 +59,6 @@ git clone https://github.com/fuzhu0102/home-inventory-manager ~/.openclaw/skills
 
 ## 注意事项
 
-- 所有写操作均通过 `scripts/manage_inventory.py` 脚本完成，确保数据安全。
+- 所有写操作均通过 `scripts/manage_inventory.py` 脚本完成。
 - 删除操作需用户明确要求，且仅删除指定记录。
-- 系统会自动生成备份文件并维护备份数量，无需手动干预。
+- 脚本会自动生成备份文件并维护备份数量，无需手动干预。
